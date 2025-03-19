@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdio.h>
 #include <string.h>
-printf (criei o desafio de logica super trunfo);
+
 // Definindo a estrutura para armazenar as informações de uma carta
 struct Carta {
     char estado[30];
